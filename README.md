@@ -2,6 +2,7 @@ Hi there, I'm Ahmed 👋
 
 ![alt text](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
+- 👨🏽‍💻 I’m currently working at [TAB-ERP](https://www.tab-erp.com)
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
